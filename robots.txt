@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /php/
+Disallow: /assets/fonts/
+
+Sitemap: https://www.mobileelectrician.co.za/sitemap.xml
